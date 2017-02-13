@@ -50,8 +50,8 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void pushUpTest () {
+    private void TestUpload () {
         int i = 5+1;
-
+        int ii = i+2;
     }
 }
